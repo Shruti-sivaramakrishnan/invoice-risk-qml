@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,train_time_sec
+Logistic Regression,0.583,0.5,0.4,0.444,0.01
+RBF-SVM,0.833,0.714,1.0,0.833,0.007
+Quantum Kernel SVM,0.833,0.8,0.8,0.8,5.346

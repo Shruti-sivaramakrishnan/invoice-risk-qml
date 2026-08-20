@@ -1,0 +1,41 @@
+invoice_id,vendor,amount,posting_date,due_date,is_weekend_posting,risk_type,is_duplicate_of,label
+INV-0001,NextGen Office Solutions,5015.14,2025-10-18,2025-11-17,1,weekend,,1
+INV-0002,Sunrise Stationery,2153.3,2025-05-24,2025-06-08,1,weekend,,1
+INV-0003,Kaveri Suppliers,3051.88,2025-03-22,2025-04-21,1,weekend,,1
+INV-0004,Orion IT Consulting,1195.59,2025-02-22,2025-04-08,1,weekend,,1
+INV-0005,Orion IT Consulting,50540.61,2025-05-16,2025-05-31,0,outlier,,1
+INV-0006,Global Freight Co,54029.16,2025-02-10,2025-03-27,0,outlier,,1
+INV-0007,Apex Maintenance Ltd,26603.85,2025-04-09,2025-05-09,0,outlier,,1
+INV-0008,Prime Facility Services,6914.88,2025-02-22,2025-04-23,1,weekend,,1
+INV-0009,Prime Facility Services,9682.05,2025-08-21,2025-10-05,0,threshold,,1
+INV-0010,Orion IT Consulting,9850.21,2025-04-18,2025-05-03,0,threshold,,1
+INV-0011,Apex Maintenance Ltd,33568.38,2025-03-31,2025-05-30,0,outlier,,1
+INV-0012,Global Freight Co,47399.99,2025-05-19,2025-06-18,0,outlier,,1
+INV-0013,Orion IT Consulting,9516.02,2025-01-29,2025-03-15,0,threshold,,1
+INV-0014,Global Freight Co,56959.76,2025-05-19,2025-07-03,0,outlier,,1
+INV-0015,NextGen Office Solutions,9956.36,2025-09-15,2025-11-14,0,threshold,,1
+INV-0016,Kaveri Suppliers,9871.75,2025-05-16,2025-06-30,0,threshold,,1
+INV-0017,Apex Maintenance Ltd,7233.67,2025-08-08,2025-10-07,0,none,,0
+INV-0018,Orion IT Consulting,7979.94,2025-04-23,2025-05-23,0,none,,0
+INV-0019,Sunrise Stationery,1181.82,2025-09-10,2025-09-25,0,none,,0
+INV-0020,Bright Logistics Pvt Ltd,5205.85,2025-03-20,2025-05-19,0,none,,0
+INV-0021,Apex Maintenance Ltd,3385.75,2025-02-03,2025-04-04,0,none,,0
+INV-0022,Sunrise Stationery,7783.09,2025-05-09,2025-05-24,0,none,,0
+INV-0023,Bright Logistics Pvt Ltd,6131.58,2025-10-02,2025-11-16,0,none,,0
+INV-0024,Bright Logistics Pvt Ltd,3760.74,2025-06-02,2025-08-01,0,none,,0
+INV-0025,Sundar Traders,7789.16,2025-05-15,2025-06-14,0,none,,0
+INV-0026,Sunrise Stationery,7028.89,2025-02-24,2025-04-10,0,none,,0
+INV-0027,Sunrise Stationery,1646.29,2025-04-14,2025-05-14,0,none,,0
+INV-0028,Sunrise Stationery,7388.7,2025-09-29,2025-11-13,0,none,,0
+INV-0029,Metro Print Works,1339.01,2025-01-10,2025-02-24,0,none,,0
+INV-0030,Prime Facility Services,934.44,2025-05-05,2025-05-20,0,none,,0
+INV-0031,Bright Logistics Pvt Ltd,6620.17,2025-09-08,2025-10-08,0,none,,0
+INV-0032,Kaveri Suppliers,7601.37,2025-09-01,2025-10-01,0,none,,0
+INV-0033,Prime Facility Services,7043.25,2025-09-29,2025-11-28,0,none,,0
+INV-0034,NextGen Office Solutions,6164.49,2025-10-06,2025-11-05,0,none,,0
+INV-0035,Prime Facility Services,7963.62,2025-07-24,2025-09-07,0,none,,0
+INV-0036,Metro Print Works,3886.15,2025-09-22,2025-10-22,0,none,,0
+INV-0037,NextGen Office Solutions,3035.64,2025-02-03,2025-03-05,0,none,,0
+INV-0038,Apex Maintenance Ltd,553.93,2025-04-23,2025-05-08,0,none,,0
+INV-0039,Bright Logistics Pvt Ltd,3760.74,2025-06-02,2025-08-01,0,duplicate,INV-0024,1
+INV-0040,Sunrise Stationery,1181.82,2025-09-10,2025-09-25,0,duplicate,INV-0019,1
